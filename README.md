@@ -1,4 +1,5 @@
 # Dyadic Decision Making Experiment Code
+# By Mathis Pink
 
 This is the experiment code used for the Dyadic Decision Making project.
 
