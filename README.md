@@ -1,4 +1,4 @@
-# DyadicDecisionMaking
+# Dyadic Decision Making Experiment Code
 
 This is the experiment code used for the Dyadic Decision Making project.
 
